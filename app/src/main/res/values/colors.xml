@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF5252</color>
+    <color name="colorPrimaryDark">#FF5252</color>
+    <color name="colorAccent">#DF1B1B</color>
+    <color name="button">#EB2A51</color>
+    <color name="Convert_From">#0A0002</color>
+    <color name="To">#0A0002</color>
+    <color name="btn_text">#FFFFFF</color>
+    <color name="startColor">#ea8685</color>
+    <color name="endColor">#ff5e57</color>
+
+</resources>

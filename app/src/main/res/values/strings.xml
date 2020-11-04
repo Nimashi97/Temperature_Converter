@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Temperature Converter</string>
+    <string name="unit">Temperature Unit</string>
+    <string name="value">Temperature Value</string>
+    <string name="covert">CONVERT</string>
+    <string name="answer">Answer</string>
+    <string name="from">Convert From</string>
+    <string name="to">Convert From</string>
+
+</resources>
